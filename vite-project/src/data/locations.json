@@ -1,0 +1,40 @@
+{
+  "locationsList": [
+    {
+      "id": 1,
+      "name": "Great Bearier",
+      "volunteerCount": "low",
+      "img": "https://cdn.britannica.com/57/99557-050-213502D2/Hut-dwellings-Bora-Bora-Society-Islands-French-Polynesia.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Florida Keys",
+      "volunteerCount": "medium",
+      "img": "https://cdn.britannica.com/57/99557-050-213502D2/Hut-dwellings-Bora-Bora-Society-Islands-French-Polynesia.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Sinai",
+      "volunteerCount": "high",
+      "img": "https://cdn.britannica.com/57/99557-050-213502D2/Hut-dwellings-Bora-Bora-Society-Islands-French-Polynesia.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Costa Rica",
+      "volunteerCount": "low",
+      "img": "https://cdn.britannica.com/57/99557-050-213502D2/Hut-dwellings-Bora-Bora-Society-Islands-French-Polynesia.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Saychelles",
+      "volunteerCount": "medium",
+      "img": "https://cdn.britannica.com/57/99557-050-213502D2/Hut-dwellings-Bora-Bora-Society-Islands-French-Polynesia.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Bora Bora",
+      "volunteerCount": "high",
+      "img": "https://cdn.britannica.com/57/99557-050-213502D2/Hut-dwellings-Bora-Bora-Society-Islands-French-Polynesia.jpg"
+    }
+  ]
+}

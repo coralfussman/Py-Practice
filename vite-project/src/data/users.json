@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "user_id": 1,
+      "name": "Greg",
+      "username": "grego",
+      "password": "kit123"
+    },
+    {
+      "user_id": 2,
+      "name": "Florence",
+      "username": "medium",
+      "password": "cow123"
+    },
+    {
+      "user_id": 3,
+      "name": "Simon",
+      "username": "simo",
+      "password": "dog123"
+    },
+    {
+      "user_id": 4,
+      "name": "Costa",
+      "username": "costco",
+      "password": "cat123"
+    },
+    {
+      "user_id": 5,
+      "name": "Sara",
+      "username": "sarbear",
+      "password": "meow"
+    },
+    {
+      "user_id": 6,
+      "name": "Bob",
+      "username": "bobthebuilder",
+      "password": "1234"
+    }
+  ]
+}
